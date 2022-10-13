@@ -1,0 +1,115 @@
+bbox coordinates: ( 191 , 110 ) and ( 261 , 174 )
+bbox coordinates: ( 4 , 153 ) and ( 156 , 330 )
+bbox coordinates: ( 202 , 202 ) and ( 493 , 370 )
+Image 0: 
+bbox coordinates: ( 105 , 150 ) and ( 259 , 411 )
+bbox coordinates: ( 199 , 343 ) and ( 271 , 425 )
+bbox coordinates: ( 63 , 202 ) and ( 86 , 217 )
+Image 1: 
+bbox coordinates: ( 189 , 232 ) and ( 245 , 291 )
+bbox coordinates: ( 554 , 258 ) and ( 639 , 420 )
+bbox coordinates: ( 296 , 234 ) and ( 312 , 300 )
+Image 2: 
+bbox coordinates: ( 422 , 324 ) and ( 468 , 365 )
+bbox coordinates: ( 433 , 192 ) and ( 580 , 301 )
+bbox coordinates: ( 254 , 93 ) and ( 401 , 226 )
+Image 3: 
+bbox coordinates: ( 250 , 86 ) and ( 448 , 345 )
+bbox coordinates: ( 485 , 193 ) and ( 638 , 359 )
+bbox coordinates: ( 480 , 226 ) and ( 519 , 272 )
+Image 4: 
+bbox coordinates: ( 222 , 55 ) and ( 466 , 369 )
+Image 5: 
+bbox coordinates: ( 1 , 169 ) and ( 52 , 282 )
+bbox coordinates: ( 101 , 132 ) and ( 489 , 375 )
+bbox coordinates: ( 94 , 163 ) and ( 211 , 225 )
+Image 6: 
+bbox coordinates: ( 62 , 52 ) and ( 206 , 239 )
+bbox coordinates: ( 444 , 188 ) and ( 450 , 194 )
+bbox coordinates: ( 395 , 205 ) and ( 399 , 210 )
+Image 7: 
+bbox coordinates: ( 215 , 106 ) and ( 324 , 407 )
+bbox coordinates: ( 135 , 103 ) and ( 148 , 114 )
+bbox coordinates: ( 162 , 100 ) and ( 189 , 112 )
+Image 8: 
+bbox coordinates: ( 84 , 128 ) and ( 610 , 275 )
+bbox coordinates: ( 0 , 293 ) and ( 25 , 353 )
+bbox coordinates: ( 1 , 350 ) and ( 64 , 442 )
+Image 9: 
+Image 0: 
+bbox coordinates: ( 191 , 110 ) and ( 261 , 174 )
+bbox coordinates: ( 4 , 153 ) and ( 156 , 330 )
+bbox coordinates: ( 202 , 202 ) and ( 493 , 370 )
+Image 0: 
+bbox coordinates: ( 105 , 150 ) and ( 259 , 411 )
+bbox coordinates: ( 199 , 343 ) and ( 271 , 425 )
+bbox coordinates: ( 63 , 202 ) and ( 86 , 217 )
+Image 1: 
+bbox coordinates: ( 189 , 232 ) and ( 245 , 291 )
+bbox coordinates: ( 554 , 258 ) and ( 639 , 420 )
+bbox coordinates: ( 296 , 234 ) and ( 312 , 300 )
+Image 2: 
+bbox coordinates: ( 422 , 324 ) and ( 468 , 365 )
+bbox coordinates: ( 433 , 192 ) and ( 580 , 301 )
+bbox coordinates: ( 254 , 93 ) and ( 401 , 226 )
+Image 3: 
+bbox coordinates: ( 250 , 86 ) and ( 448 , 345 )
+bbox coordinates: ( 485 , 193 ) and ( 638 , 359 )
+bbox coordinates: ( 480 , 226 ) and ( 519 , 272 )
+Image 4: 
+bbox coordinates: ( 222 , 55 ) and ( 466 , 369 )
+Image 5: 
+bbox coordinates: ( 1 , 169 ) and ( 52 , 282 )
+bbox coordinates: ( 101 , 132 ) and ( 489 , 375 )
+bbox coordinates: ( 94 , 163 ) and ( 211 , 225 )
+Image 6: 
+bbox coordinates: ( 62 , 52 ) and ( 206 , 239 )
+bbox coordinates: ( 444 , 188 ) and ( 450 , 194 )
+bbox coordinates: ( 395 , 205 ) and ( 399 , 210 )
+Image 7: 
+bbox coordinates: ( 215 , 106 ) and ( 324 , 407 )
+bbox coordinates: ( 135 , 103 ) and ( 148 , 114 )
+bbox coordinates: ( 162 , 100 ) and ( 189 , 112 )
+Image 8: 
+bbox coordinates: ( 84 , 128 ) and ( 610 , 275 )
+bbox coordinates: ( 0 , 293 ) and ( 25 , 353 )
+bbox coordinates: ( 1 , 350 ) and ( 64 , 442 )
+Image 9: 
+bbox coordinates: ( 191 , 110 ) and ( 261 , 174 )
+bbox coordinates: ( 4 , 153 ) and ( 156 , 330 )
+bbox coordinates: ( 202 , 202 ) and ( 493 , 370 )
+Image 0: 
+bbox coordinates: ( 105 , 150 ) and ( 259 , 411 )
+bbox coordinates: ( 199 , 343 ) and ( 271 , 425 )
+bbox coordinates: ( 63 , 202 ) and ( 86 , 217 )
+Image 1: 
+bbox coordinates: ( 189 , 232 ) and ( 245 , 291 )
+bbox coordinates: ( 554 , 258 ) and ( 639 , 420 )
+bbox coordinates: ( 296 , 234 ) and ( 312 , 300 )
+Image 2: 
+bbox coordinates: ( 422 , 324 ) and ( 468 , 365 )
+bbox coordinates: ( 433 , 192 ) and ( 580 , 301 )
+bbox coordinates: ( 254 , 93 ) and ( 401 , 226 )
+Image 3: 
+bbox coordinates: ( 250 , 86 ) and ( 448 , 345 )
+bbox coordinates: ( 485 , 193 ) and ( 638 , 359 )
+bbox coordinates: ( 480 , 226 ) and ( 519 , 272 )
+Image 4: 
+bbox coordinates: ( 222 , 55 ) and ( 466 , 369 )
+Image 5: 
+bbox coordinates: ( 1 , 169 ) and ( 52 , 282 )
+bbox coordinates: ( 101 , 132 ) and ( 489 , 375 )
+bbox coordinates: ( 94 , 163 ) and ( 211 , 225 )
+Image 6: 
+bbox coordinates: ( 62 , 52 ) and ( 206 , 239 )
+bbox coordinates: ( 444 , 188 ) and ( 450 , 194 )
+bbox coordinates: ( 395 , 205 ) and ( 399 , 210 )
+Image 7: 
+bbox coordinates: ( 215 , 106 ) and ( 324 , 407 )
+bbox coordinates: ( 135 , 103 ) and ( 148 , 114 )
+bbox coordinates: ( 162 , 100 ) and ( 189 , 112 )
+Image 8: 
+bbox coordinates: ( 84 , 128 ) and ( 610 , 275 )
+bbox coordinates: ( 0 , 293 ) and ( 25 , 353 )
+bbox coordinates: ( 1 , 350 ) and ( 64 , 442 )
+Image 9: 

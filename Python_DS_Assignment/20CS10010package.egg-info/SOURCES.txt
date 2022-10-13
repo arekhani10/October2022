@@ -1,0 +1,8 @@
+README.md
+setup.py
+20CS10010package.egg-info/PKG-INFO
+20CS10010package.egg-info/SOURCES.txt
+20CS10010package.egg-info/dependency_links.txt
+20CS10010package.egg-info/top_level.txt
+my_package/__init__.py
+my_package/model.py
